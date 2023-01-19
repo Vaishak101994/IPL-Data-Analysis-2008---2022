@@ -1,4 +1,5 @@
-# IPL-Data-Analysis-2008---2022...Overall Data analysis of IPL (2008 - 2022).  
+# IPL-Data-Analysis-2008---2022...
+Overall Data analysis of IPL (2008 - 2022).  
 Downloaded the Dataset from "Kaggle". 
 Cleaned the data in excel and uploaded the cleaned the dataset to Snowflakes.
 Ran the SQL codes and did EDA and Created the master file. 
